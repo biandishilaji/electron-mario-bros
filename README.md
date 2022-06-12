@@ -5,11 +5,11 @@
 #  Descrição do projeto
 <h4>Projeto de estudo com a última versão do Electron. Um jogo básico baseado no Super Mario Bros.</h4>
 
-### Web Screenshot
+### Mídias do aplicativo
 
 <p align="center">
-   <img src="https://i.ibb.co/R9NC5gz/foto.jpg" width="IN_GAMING" height="">
-   <img src="https://i.ibb.co/CbyJz0B/Screen-Shot-2022-06-12-at-02-07-27.png" width="CONTINUE?" height="">
+   <img src="https://i.ibb.co/R9NC5gz/foto.jpg" alt="PLAYING">
+   <img src="https://i.ibb.co/CbyJz0B/Screen-Shot-2022-06-12-at-02-07-27.png" alt="CONTINUE_MESSAGE">
 </p>
 
 # :pushpin: Tabela de conteúdos
