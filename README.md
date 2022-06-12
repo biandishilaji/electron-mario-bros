@@ -7,19 +7,19 @@
 
 # :pushpin: Tabela de conteúdos
 
-* [Tecnologias](#computer-technologies)
-* [Como executar](#construction_worker-how-to-run)
+* [Tecnologias](#computer-tecnologias)
+* [Como executar](#construction-como-executar)
 * [License](#closed_book-license)
 
 
-# :computer: Technologies
+# :computer: Tecnologias
 Este projeto foi feito utilizando as seguintes tecnologias:
 
 * [Electron](https://www.electronjs.org/)
 * [Electron-Forge](https://www.electronforge.io/)
 * [Node](https://nodejs.org)
 
-# :construction_worker: Worker how to run
+# :construction: Como executar
 ```bash
 # Install Dependencies
 $ yarn install
