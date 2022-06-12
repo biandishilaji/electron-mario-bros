@@ -8,8 +8,8 @@
 ### Mídias do aplicativo
 
 <p align="center">
-   <img src="https://i.ibb.co/R9NC5gz/foto.jpg" alt="PLAYING" width="400px">
-<img src="https://i.ibb.co/StgQPvN/Screen-Shot-2022-06-12-at-02-07-27.png" alt="CONTINUE_MESSAGE" width="400px" border="0" />
+   <img src="https://i.ibb.co/R9NC5gz/foto.jpg" alt="PLAYING" width="420px">
+<img src="https://i.ibb.co/StgQPvN/Screen-Shot-2022-06-12-at-02-07-27.png" alt="CONTINUE_MESSAGE" width="420px" border="0" />
 </p>
 
 # :pushpin: Tabela de conteúdos
