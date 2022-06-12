@@ -39,10 +39,10 @@ $ yarn make
 ```
 
 # :closed_book: Licença
-
-Released in 2020 :closed_book: License
+Realizado em 2022 :closed_book:
 
 Feito com carinho por [Gabriel Santos](https://github.com/biandishilaji) 🚀.
+<br>
 Esse projeto está sobe licença de [MIT license](./LICENSE).
 
 
